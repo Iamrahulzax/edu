@@ -1,0 +1,14 @@
+# PHP / Composer
+/vendor/
+/node_modules/
+.env
+.env.local
+.env.*.local
+
+# Docker
+docker-compose.override.yml
+db-data/
+
+# OS
+.DS_Store
+Thumbs.db
